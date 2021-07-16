@@ -44,14 +44,13 @@ h1 {
     font-size: 38px;
 }
 
-/* Menu Desktop */
+/* Menu Mobile */
 
 /* Boton que contiene el icono hamburguesa y la cruz */
 #burger-menu-button  {
     background: transparent;
     border: 0;
     outline: 0;
-    cursor: pointer;
     color: #000000;
     font-size: 26px;
     z-index: 2;
