@@ -112,7 +112,8 @@ nav #main-menu {
     font-size: 20px;
 }
 
-.menu-item a:hover {
+.menu-item a:hover,
+.menu-item.active a {
     border: 2px solid #000000;
     border-radius: 1.2em;
     padding: 4px 14px;
